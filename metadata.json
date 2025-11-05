@@ -1,0 +1,5 @@
+{
+  "name": "Lovable - Phytolith Analysis System",
+  "description": "A comprehensive web-based system for phytolith analysis, integrating Gemini AI for detailed morphological and contextual interpretation of archaeological samples. Users can upload images, provide extensive contextual data, and receive a structured scientific report.",
+  "requestFramePermissions": []
+}
